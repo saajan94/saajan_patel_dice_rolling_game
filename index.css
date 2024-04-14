@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #5b556a;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 100vw;
+  min-height: 100vh;
+  /* background-color: #6a95ae; */
+  background: rgb(85,224,240);
+  background: linear-gradient(0deg, rgba(85,224,240,1) 0%, rgba(60,105,151,1) 100%);
+}
