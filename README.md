@@ -1,6 +1,7 @@
 # ReYahtzee
 
 Before running the application, install all of the necessary dependencies by running `npm install`.
+
 To run the application, run `npm run dev`.
 
 ### Technologies Used
